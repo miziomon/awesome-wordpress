@@ -8,6 +8,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 	- [Plugins](#plugins)
 		- [Dev] (#dev-plugins)
 		- [Media Gallery] (#media-gallery)
+		- [Security] (#security)
 	- [Command Line] (#commandline)
 - [Resources](#resources)
 	- [Websites](#websites)
@@ -39,13 +40,19 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Revisr](https://wordpress.org/plugins/revisr/) - Revisr allows you to manage your WordPress website with a Git repository. A must have plugin for deploying and managing WordPress using Git repositories.
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
-
+* [Custom Post Type Permalinks](https://wordpress.org/plugins/custom-post-type-permalinks/) - Custom Post Type Permalinks lets you edit the permalink structure of custom post type
 	
 ## Media Gallery
 *Media Gallery.*
 
 * [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) - A better management for WordPress Media Library 
 * [Imsanity](https://wordpress.org/plugins/imsanity/) - Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue! 
+* [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) - Behind-the-scenes plugin to automatically resize images when uploaded, restricting size to within specified maximum h/w. Uses standard WP functions. 
+
+## Security
+*Security.*
+
+* [GoodBye Captcha](https://wordpress.org/plugins/goodbye-captcha/) - An extremely powerful anti-spam plugin that blocks Spam-bots without annoying captcha images. 
 
 
 
