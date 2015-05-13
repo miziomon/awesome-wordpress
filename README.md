@@ -4,9 +4,9 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
 	- [Themes](#themes)
-	- [Themes](#themes)
 	- [Plugins](#plugins)
 		- [Debug] (#debug-plugins)
+		- [Media Gallery] (#media-gallery)
 	- [Command Line] (#commandline)
 - [Resources](#resources)
 	- [Websites](#websites)
@@ -30,7 +30,11 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
 
+	
+## Media Gallery
+*Media Gallery.*
 
+* [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) - A better management for WordPress Media Library 
 
 
 
