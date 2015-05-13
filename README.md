@@ -23,6 +23,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 * [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
 * [Sage](https://roots.io/sage/) - Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap, that will help you make better themes.
+* [WordPlate](https://github.com/wordplate/wordplate) - A WordPress boilerplate. This project is trying to simplify the way we're setting up a new WordPress project. Don't repeat yourself.
 
 ## Framework
 
@@ -68,6 +69,8 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 ## Resources
 
+* [wp-custom-post-type-class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily 
+* [wp-bootstrap-navwalker](https://github.com/twittem/wp-bootstrap-navwalker) -  A custom WordPress nav walker class to fully implement the Twitter Bootstrap 3.0+ navigation style in a custom theme using the WordPress built in menu manager.
 * [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
 ## Websites
