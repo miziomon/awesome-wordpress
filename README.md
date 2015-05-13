@@ -33,7 +33,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files. 
 
-
+### Dev Plugins
 *Dev plugins.*
 
 * [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) - Efficient many-to-many connections between posts, pages, custom post types, users. 
