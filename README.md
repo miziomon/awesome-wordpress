@@ -4,6 +4,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
 	- [Themes](#themes)
+		- [Framework] (#framework)
 	- [Plugins](#plugins)
 		- [Debug] (#debug-plugins)
 		- [Media Gallery] (#media-gallery)
@@ -17,6 +18,12 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 	
 ## Themes	
+
+* [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
+
+## Framework
+
+* [WP MVC](http://wpmvc.org/) - WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
 	
 ## Plugins
 
@@ -41,7 +48,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 ## Command line
 
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
-
+* [WPScan](http://wpscan.org/) - WPScan is a black box WordPress vulnerability scanner.
 
 ## Resources
 
