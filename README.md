@@ -9,6 +9,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 		- [Dev] (#dev-plugins)
 		- [Media Gallery] (#media-gallery)
 		- [Security] (#security)
+		- [Move e Backup] (#move)
 	- [Command Line] (#commandline)
 - [Resources](#resources)
 	- [Websites](#websites)
@@ -54,7 +55,11 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 * [GoodBye Captcha](https://wordpress.org/plugins/goodbye-captcha/) - An extremely powerful anti-spam plugin that blocks Spam-bots without annoying captcha images. 
 
+## Move e backup
+*Move.*
 
+* [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - The plugin allows you to export your database, media files, plugins, and themes. You can apply unlimited find/replace operations on your database and the plugin will also fix any serialization problems that occur during find/replace operations.
+* [Duplicator](https://wordpress.org/plugins/duplicator/) - Duplicate, clone, backup, move and transfer an entire site from one location to another. 
 
 ## Command line
 
