@@ -11,9 +11,9 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 		- [Security] (#security)
 		- [Move e Backup] (#move)
 	- [Command Line] (#commandline)
-- [Resources](#resources)
-	- [Websites](#websites)
-	- [Books](#books)
+	- [Resources](#resources)
+		- [Websites](#websites)
+		- [Books](#books)
 
 ## Core
 * [WordPress on GitHub](https://github.com/WordPress/WordPress) - WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags!
@@ -45,20 +45,20 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Custom Post Type Permalinks](https://wordpress.org/plugins/custom-post-type-permalinks/) - Custom Post Type Permalinks lets you edit the permalink structure of custom post type
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/screenshots/) - Rollback (or forward) any WordPress.org plugin or theme like a boss. 
 	
-## Media Gallery
-*Media Gallery.*
+#### Media Gallery
+*Images e media *
 
 * [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) - A better management for WordPress Media Library 
 * [Imsanity](https://wordpress.org/plugins/imsanity/) - Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue! 
 * [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) - Behind-the-scenes plugin to automatically resize images when uploaded, restricting size to within specified maximum h/w. Uses standard WP functions. 
 
-## Security
-*Security.*
+#### Security
+*Antispam, prevent brute force, ecc*
 
 * [GoodBye Captcha](https://wordpress.org/plugins/goodbye-captcha/) - An extremely powerful anti-spam plugin that blocks Spam-bots without annoying captcha images. 
 
-## Move e backup
-*Move.*
+#### Move e backup
+*If you need to move your installation*
 
 * [All-in-One WP Migration](https://wordpress.org/plugins/all-in-one-wp-migration/) - The plugin allows you to export your database, media files, plugins, and themes. You can apply unlimited find/replace operations on your database and the plugin will also fix any serialization problems that occur during find/replace operations.
 * [Duplicator](https://wordpress.org/plugins/duplicator/) - Duplicate, clone, backup, move and transfer an entire site from one location to another. 
@@ -70,10 +70,15 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 ## Resources
 
+#### Classes
 * [wp-custom-post-type-class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily 
 * [wp-bootstrap-navwalker](https://github.com/twittem/wp-bootstrap-navwalker) -  A custom WordPress nav walker class to fully implement the Twitter Bootstrap 3.0+ navigation style in a custom theme using the WordPress built in menu manager.
+
+#### Knowhow
 * [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
 ## Websites
+
+* [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
 
 ## Books
