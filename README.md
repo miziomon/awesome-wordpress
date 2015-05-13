@@ -6,7 +6,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 	- [Themes](#themes)
 		- [Framework] (#framework)
 	- [Plugins](#plugins)
-		- [Debug] (#debug-plugins)
+		- [Dev] (#dev-plugins)
 		- [Media Gallery] (#media-gallery)
 	- [Command Line] (#commandline)
 - [Resources](#resources)
@@ -20,6 +20,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 ## Themes	
 
 * [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
+* [Sage](https://roots.io/sage/) - Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap, that will help you make better themes.
 
 ## Framework
 
@@ -27,13 +28,14 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 	
 ## Plugins
 
-* [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) - Efficient many-to-many connections between posts, pages, custom post types, users. 
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files. 
 
-	
-## Debug plugins
-*Debug plugins.*
 
+## Dev Plugins 
+*Dev plugins.*
+
+* [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) - Efficient many-to-many connections between posts, pages, custom post types, users. 
+* [TGM Plugin Activation](tgmpluginactivation.com/) - TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet. 
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
 
@@ -42,6 +44,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 *Media Gallery.*
 
 * [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) - A better management for WordPress Media Library 
+* [Imsanity](https://wordpress.org/plugins/imsanity/) - Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue! 
 
 
 
@@ -51,6 +54,8 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [WPScan](http://wpscan.org/) - WPScan is a black box WordPress vulnerability scanner.
 
 ## Resources
+
+[10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
 ## Websites
 
