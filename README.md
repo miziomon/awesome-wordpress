@@ -63,7 +63,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 ## Resources
 
-[10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
+* [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
 ## Websites
 
