@@ -28,6 +28,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
 * [Sage](https://roots.io/sage/) - Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap, that will help you make better themes.
 * [WordPlate](https://github.com/wordplate/wordplate) - A WordPress boilerplate. This project is trying to simplify the way we're setting up a new WordPress project. Don't repeat yourself.
+* [Sprig](http://sprigwp.com/) - Build WordPress themes quickly with Twig
 
 ## Framework
 
@@ -108,3 +109,11 @@ The foundation of the plugin is its extensive role and capability management sys
 * [wpmudev.org](http://premium.wpmudev.org/blog/35-resources-for-kick-ass-wordpress-developers/) -35+ Resources to Become a Kick Ass WordPress Developer
 
 ## Books
+
+
+## Contributing
+
+We welcome any contributions to the this awesome list! Please send us a pull request.
+
+* For contribution, [fork the project](https://github.com/miziomon/awesome-wordpress/fork)
+* To report a broken link or want to remove one, [use issues](https://github.com/miziomon/awesome-wordpress/issues)
