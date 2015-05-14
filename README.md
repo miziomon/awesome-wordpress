@@ -88,6 +88,18 @@ The foundation of the plugin is its extensive role and capability management sys
 
 ## Websites
 
+* [http://wordpress.stackexchange.com/](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required. 
+
 * [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
+* [Mark on WordPress](https://markjaquith.wordpress.com/) - WordPress puts food on my table.
+* [Otto on WordPress](http://ottopress.com/) - You have to use an Ottopress to get fresh squeezed Otto
+* [Nacin](http://nacin.com/) - WordPress Lead Developer
+* [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source
+
+
+#### Resources List
+
+* [Awesome WordPress by dropndot](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities. 
+* [wpmudev.org](http://premium.wpmudev.org/blog/35-resources-for-kick-ass-wordpress-developers/) -35+ Resources to Become a Kick Ass WordPress Developer
 
 ## Books
