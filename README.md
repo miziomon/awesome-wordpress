@@ -51,6 +51,8 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/screenshots/) - Rollback (or forward) any WordPress.org plugin or theme like a boss. 
 * [Members](https://wordpress.org/plugins/members/) - Members is a plugin that extends your control over your blog. It's a user, role, and content management plugin that was created to make WordPress a more powerful CMS.
 The foundation of the plugin is its extensive role and capability management system. This is the backbone of all the current features and planned future features.
+* [GitHub Updater] (https://github.com/afragen/github-updater) - A simple plugin to enable automatic updates to your GitHub, Bitbucket, or GitLab hosted WordPress plugins and themes. It also allows for the remote installation of plugins or themes.
+* [Rewrite Rules Inspector] (https://wordpress.org/plugins/rewrite-rules-inspector/) - A straightforward WordPress admin tool for inspecting your rewrite rules. View a listing of all your rewrite rules, see which rewrite rules match a given URL (and the priorites they match in), or filter by different sources of rewrite rules. Perform a soft flush of your rewrite rules to regenerate them.
 	
 #### Media Gallery
 *Images e media *
@@ -59,6 +61,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Imsanity](https://wordpress.org/plugins/imsanity/) - Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue! 
 * [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) - Behind-the-scenes plugin to automatically resize images when uploaded, restricting size to within specified maximum h/w. Uses standard WP functions. 
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Regenerate Thumbnails allows you to regenerate the thumbnails for your image attachments. This is very handy if you've changed any of your thumbnail dimensions (via Settings -> Media) after previously uploading images or have changed to a theme with different featured post image dimensions.
+* [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/) - Enables replacing attachment files by simply uploading a new file in the media library edit view. 
 
 #### Ecommerce
 
