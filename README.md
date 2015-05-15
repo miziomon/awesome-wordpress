@@ -12,6 +12,8 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 		- [Move e Backup] (#move)
 	- [Command Line] (#commandline)
 	- [Resources](#resources)
+		- [Classes] (#classes) 
+		- [Theme Customizer](#theme-customizer)
 		- [Websites](#websites)
 		- [Books](#books)
 
@@ -87,6 +89,9 @@ The foundation of the plugin is its extensive role and capability management sys
 * [WPScan](http://wpscan.org/) - WPScan is a black box WordPress vulnerability scanner.
 
 ## Resources
+
+#### Theme Customizer
+* [Multi Image Control] (https://github.com/lucatume/multi-image-control) - A Theme customizer control allowing selection and sorting of multiple images.
 
 #### Classes
 * [wp-custom-post-type-class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily 
