@@ -6,8 +6,11 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 	- [Themes](#themes)
 		- [Framework] (#framework)
 	- [Plugins](#plugins)
+		- [SEO] (#seo) 
 		- [Dev] (#dev-plugins)
 		- [Media Gallery] (#media-gallery)
+		- [Performance] (#performance)
+		- [E-commerce] (#ecommerce)
 		- [Security] (#security)
 		- [Move e Backup] (#move)
 	- [Command Line] (#commandline)
@@ -37,7 +40,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [WP MVC](http://wpmvc.org/) - WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
 	
 ## Plugins
-#### Seo
+#### SEO
 
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files. 
 
@@ -63,9 +66,13 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Imsanity](https://wordpress.org/plugins/imsanity/) - Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue! 
 * [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) - Behind-the-scenes plugin to automatically resize images when uploaded, restricting size to within specified maximum h/w. Uses standard WP functions. 
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Regenerate Thumbnails allows you to regenerate the thumbnails for your image attachments. This is very handy if you've changed any of your thumbnail dimensions (via Settings -> Media) after previously uploading images or have changed to a theme with different featured post image dimensions.
-* [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/) - Enables replacing attachment files by simply uploading a new file in the media library edit view. 
+* [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/) - Enables replacing attachment files by simply uploading a new file in the media library edit view.
 
-#### Ecommerce
+#### Performance
+
+* [RICG Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/) - Bringing automatic default responsive images to WordPress.
+
+#### E-commerce
 
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - Easy Digital Downloads is a complete e-commerce solution for selling digital products in a light, performant, and easy to use plugin. Rather that attempting to provide every feature under the sun, Easy Digital Downloads makes selling digital simple and complete by providing just the features you need.
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - Transform your WordPress website into a thoroughbred eCommerce store. Delivering enterprise-level quality and features, backed by a name you can trust. Say "hello" to the WooCommerce eCommerce plugin.
@@ -102,14 +109,13 @@ The foundation of the plugin is its extensive role and capability management sys
 
 ## Websites
 
-* [http://wordpress.stackexchange.com/](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required. 
+* [http://wordpress.stackexchange.com/](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
 
 * [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
 * [Mark on WordPress](https://markjaquith.wordpress.com/) - WordPress puts food on my table.
 * [Otto on WordPress](http://ottopress.com/) - You have to use an Ottopress to get fresh squeezed Otto
 * [Nacin](http://nacin.com/) - WordPress Lead Developer
 * [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source
-
 
 #### Resources List
 
@@ -118,6 +124,7 @@ The foundation of the plugin is its extensive role and capability management sys
 
 ## Books
 
+* [Digging Into WordPress](https://digwp.com/book/) - There is much to learn about the World’s most popular publishing platform. From your first steps of learning about WordPress all the way through securing, customizing, and maintaining your site into the future, this book is packed with truly practical information.
 
 ## Contributing
 
