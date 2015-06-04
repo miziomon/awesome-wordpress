@@ -125,6 +125,7 @@ The foundation of the plugin is its extensive role and capability management sys
 ## Books
 
 * [Digging Into WordPress](https://digwp.com/book/) - There is much to learn about the World’s most popular publishing platform. From your first steps of learning about WordPress all the way through securing, customizing, and maintaining your site into the future, this book is packed with truly practical information.
+* [The Story of WordPress](https://github.com/WordPress/book) - The history and development of WordPress. The book is currently in version 1, having been written by Siobhan McKeown, edited by Krista Stevens, and with helpful pull requests from members of the community. 
 
 ## Contributing
 
