@@ -3,8 +3,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
-	- [Themes](#themes)
-		- [Framework] (#framework)
+	- [Themes and Framework](#themes)
 	- [Plugins](#plugins)
 		- [SEO] (#seo) 
 		- [Dev] (#dev-plugins)
@@ -27,17 +26,17 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Automated Testing](https://make.wordpress.org/core/handbook/automated-testing/) - This is an overview of running and writing tests for WordPress. Automated testing is running test cases where manual intervention is not required to run each one. This is usually in the form of writing test suites which have multiple test cases and a library and command line tool that runs the test suite or suites. The test suite execution is usually manual, from the developer choosing which suites on the command line to run, but this isn’t required. The process could be automated and looked over from time to time to ensure that when the code changed, no problems were introduced.
 
 	
-## Themes	
+## Themes and Framework
 
 * [_S](https://github.com/automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 * [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
 * [Sage](https://roots.io/sage/) - Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap, that will help you make better themes.
 * [WordPlate](https://github.com/wordplate/wordplate) - A WordPress boilerplate. This project is trying to simplify the way we're setting up a new WordPress project. Don't repeat yourself.
 * [Sprig](http://sprigwp.com/) - Build WordPress themes quickly with Twig
-
-## Framework
-
 * [WP MVC](http://wpmvc.org/) - WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
+* [CherryFramework](https://github.com/CherryFramework/CherryFramework) - Fully responsive design, easy install, steady updates, great number of shortcodes and widgets, integration of Bootstrap functions. All brought to you by Cherry Framework for straightforward experience in website design
+* Gantry Framework (https://github.com/gantry/gantry5) - Next Generation Theme Framework. Gantry was born when the RocketTheme development team wanted to consolidate our extensive set of custom Joomla and WordPress template functionality into a simple, easy to use framework
+* Runway Framework (https://github.com/parallelus/Runway-Framework) - A better way to create WordPress themes. Runway was built for creating WordPress themes and it encompasses both of the classic meanings of "theme framework" as defined by the WordPress developers. But Runway is much more than just a theme framework, Runway is a Theme Development Environment.
 	
 ## Plugins
 #### SEO
