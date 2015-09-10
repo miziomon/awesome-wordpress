@@ -53,6 +53,7 @@ Plugins that have a chance to make it into WordPress core
 #### SEO
 
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files. 
+* [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin. 
 
 #### Dev Plugins
 *Plugins can help in your workflow*
