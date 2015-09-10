@@ -1,5 +1,6 @@
 # Awesome WordPress
-A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. Inspired by awesome-php. 
+A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. 
+Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
