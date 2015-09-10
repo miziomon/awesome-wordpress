@@ -45,7 +45,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 ## Plugins
 
 ### Featured Plugins
-Plugins that have a chance to make it into WordPress core
+*Plugins that have a chance to make it into WordPress core*
 
 * [Shortcake](https://wordpress.org/plugins/shortcode-ui/) - Used alongside add_shortcode, Shortcake supplies a user-friendly interface for adding a shortcode to a post, and viewing and editing it from within the content editor.
 * [Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/) - This plugin works by including all available image sizes for each image upload. Whenever WordPress outputs the image through the media uploader, or whenever a featured image is generated, those sizes will be included in the image tag via the srcset attribute.
