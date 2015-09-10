@@ -3,7 +3,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
-	- [Themes and Framework](#themes)
+	- [Themes and Framework](#themes-and-framework)
 	- [Plugins](#plugins)
 		- [SEO] (#seo) 
 		- [Dev] (#dev-plugins)
