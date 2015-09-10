@@ -13,7 +13,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 		- [E-commerce] (#ecommerce)
 		- [Security and Managment] (#security)
 		- [Move and Backup] (#move)
-	- [Command Line] (#commandline)
+	- [Commandline] (#commandline)
 	- [Resources](#resources)
 		- [Classes] (#classes) 
 		- [Theme Customizer](#theme-customizer)
@@ -101,7 +101,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Duplicator](https://wordpress.org/plugins/duplicator/) - Duplicate, clone, backup, move and transfer an entire site from one location to another. 
 * [BackWPup](https://wordpress.org/plugins/backwpup/) - The backup plugin BackWPup Free can be used to save your complete installation including /wp-content/ and push them to an external Backup Service, like Dropbox, S3, FTP and many more, see list below. With a single backup .zip file you are able to easily restore an installation.
 
-## Command line
+## Commandline
 
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
 * [WPScan](http://wpscan.org/) - WPScan is a black box WordPress vulnerability scanner.
