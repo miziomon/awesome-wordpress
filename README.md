@@ -97,6 +97,7 @@ The foundation of the plugin is its extensive role and capability management sys
 #### Performance
 
 * [RICG Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/) - Bringing automatic default responsive images to WordPress.
+* [WP-Optimize](https://it.wordpress.org/plugins/wp-optimize/) - Simple but effective plugin allows you to extensively clean up your WordPress database and optimize it without doing manual queries. 
 
 #### E-commerce
 
@@ -110,7 +111,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Lockdown WP Admin](https://wordpress.org/plugins/lockdown-wp-admin/) - Lockdown WP Admin conceals the administration and login screen from intruders. It can hide WordPress Admin (/wp-admin/) and and login (/wp-login.php) * [MainWP](https://mainwp.com/) - Self-hosted open source manager for maintaining your WordPress sites from one location.
 * [Captcha on Login](https://wordpress.org/plugins/captcha-on-login) - Protect your blog from login brute force attacks adding a captcha on login page of your site 
 
-### Forms and modules
+#### Forms and modules
 
 * [Caldera Forms](https://it.wordpress.org/plugins/caldera-forms/) - A diffrent kind of WordPress form builder. With an intuitive drag and drop interface -– based on a responsive grid -- and a wide range of add-ons, it’s never been easier to create forms for your WordPress site that look great on any device, thanks to Caldera Forms. 
 * [Ninja Forms](https://it.wordpress.org/plugins/ninja-forms/) - Ninja Forms is the easiest way to build any form you need for your WordPress website. No longer mess with code or worry about made-up limitations. Create the form you want, when you want with a simple drag and drop interface provided by the very powerful Ninja Forms framework.
