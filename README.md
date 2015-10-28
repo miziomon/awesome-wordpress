@@ -15,6 +15,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Performance] (#performance)
 		- [E-commerce] (#e-commerce)
 		- [Security and Managment] (#security-and-management)
+		- [Forms and modules] (#forms-and-modules)
 		- [Move and Backup] (#move-and-backup)
 	- [Commandline] (#commandline)
 	- [Resources](#resources)
@@ -107,6 +108,12 @@ The foundation of the plugin is its extensive role and capability management sys
 
 * [GoodBye Captcha](https://wordpress.org/plugins/goodbye-captcha/) - An extremely powerful anti-spam plugin that blocks Spam-bots without annoying captcha images. 
 * [Lockdown WP Admin](https://wordpress.org/plugins/lockdown-wp-admin/) - Lockdown WP Admin conceals the administration and login screen from intruders. It can hide WordPress Admin (/wp-admin/) and and login (/wp-login.php) * [MainWP](https://mainwp.com/) - Self-hosted open source manager for maintaining your WordPress sites from one location.
+* [Captcha on Login](https://wordpress.org/plugins/captcha-on-login) - Protect your blog from login brute force attacks adding a captcha on login page of your site 
+
+### Forms and modules
+
+* [Caldera Forms](https://it.wordpress.org/plugins/caldera-forms/) - A diffrent kind of WordPress form builder. With an intuitive drag and drop interface -– based on a responsive grid -- and a wide range of add-ons, it’s never been easier to create forms for your WordPress site that look great on any device, thanks to Caldera Forms. 
+* [Ninja Forms](https://it.wordpress.org/plugins/ninja-forms/) - Ninja Forms is the easiest way to build any form you need for your WordPress website. No longer mess with code or worry about made-up limitations. Create the form you want, when you want with a simple drag and drop interface provided by the very powerful Ninja Forms framework.
 
 #### Move e backup
 *If you need to move your installation*
