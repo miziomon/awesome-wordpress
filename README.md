@@ -11,10 +11,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [SEO] (#seo)
 		- [Dev] (#dev-plugins)
 		- [Installer and Generators] (#installer-and-generators)
-		- [Media Gallery] (#media-gallery)
+		- [Images and Media Gallery] (#images-and-media-gallery)
 		- [Performance] (#performance)
 		- [E-commerce] (#e-commerce)
-		- [Security and Managment] (#security-and-management)
+		- [Security and Management] (#security-and-management)
 		- [Forms and modules] (#forms-and-modules)
 		- [Move and Backup] (#move-and-backup)
 	- [Commandline] (#commandline)
@@ -79,6 +79,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/) - A straightforward WordPress admin tool for inspecting your rewrite rules. View a listing of all your rewrite rules, see which rewrite rules match a given URL (and the priorites they match in), or filter by different sources of rewrite rules. Perform a soft flush of your rewrite rules to regenerate them.
 * [CMB2](https://wordpress.org/plugins/cmb2/) - CMB2 is a metabox, custom fields, and forms library for WordPress that will blow your mind. 
 * [Ship](http://ship.getherbert.com/) - Tag a release on GitHub and have it automatically shipped to the official WordPress.org plugin SVN
+* [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - Simply Show Hooks helps theme and plugin developers to quickly see where all the action and filter hooks are on any WordPress page. 
 	
 #### Installer and Generators
 
@@ -86,14 +87,15 @@ The foundation of the plugin is its extensive role and capability management sys
 * [GenerateWP](http://generatewp.com/) - The easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake and dummy content to your WordPress, great for developers who need testing 
 
-#### Media Gallery
-*Images e media *
+#### Images and Media Gallery
+*All about media items management*
 
 * [Enhanced Media Library](https://wordpress.org/plugins/enhanced-media-library/) - A better management for WordPress Media Library 
 * [Imsanity](https://wordpress.org/plugins/imsanity/) - Imsanity automatically resizes huge image uploads. Are contributors uploading huge photos? Tired of manually scaling? Imsanity to the rescue! 
 * [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) - Behind-the-scenes plugin to automatically resize images when uploaded, restricting size to within specified maximum h/w. Uses standard WP functions. 
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Regenerate Thumbnails allows you to regenerate the thumbnails for your image attachments. This is very handy if you've changed any of your thumbnail dimensions (via Settings -> Media) after previously uploading images or have changed to a theme with different featured post image dimensions.
 * [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/) - Enables replacing attachment files by simply uploading a new file in the media library edit view.
+* [Multiple Post Thumbnails](https://wordpress.org/plugins/multiple-post-thumbnails/) - Adds multiple post thumbnails to a post type. If you've ever wanted more than one Featured Image on a post, this plugin is for you. 
 
 #### Performance
 
