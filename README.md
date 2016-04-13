@@ -38,7 +38,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [_S](https://github.com/automattic/_s) - Hi. I'm a starter theme called _s, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 * [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
 * [Sage](https://roots.io/sage/) - Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap, that will help you make better themes.
-* [WordPlate](https://github.com/wordplate/wordplate) - A WordPress boilerplate. This project is trying to simplify the way we're setting up a new WordPress project. Don't repeat yourself.
+* [WordPlate](https://wordplate.github.io/) - WordPlate tries to simplify the fuzziness around WordPress development.
 * [Sprig](http://sprigwp.com/) - Build WordPress themes quickly with Twig
 * [WP MVC](http://wpmvc.org/) - WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
 * [CherryFramework](https://github.com/CherryFramework/CherryFramework) - Fully responsive design, easy install, steady updates, great number of shortcodes and widgets, integration of Bootstrap functions. All brought to you by Cherry Framework for straightforward experience in website design
