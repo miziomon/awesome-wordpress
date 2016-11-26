@@ -134,6 +134,11 @@ The foundation of the plugin is its extensive role and capability management sys
 * [BackWPup](https://wordpress.org/plugins/backwpup/) - The backup plugin BackWPup Free can be used to save your complete installation including /wp-content/ and push them to an external Backup Service, like Dropbox, S3, FTP and many more, see list below. With a single backup .zip file you are able to easily restore an installation.
 * [MultiSite Clone Duplicator](https://it.wordpress.org/plugins/multisite-clone-duplicator/) - MultiSite Clone Duplicator adds a "Duplicate Site" functionality to your network installation. It allows you to clone any site of your network into a new one : all data, files, users and roles can be copied.
 
+
+#### Marketing
+* [Leads] (https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
+* [Calls to Action] (https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts. 
+
 ## Commandline
 
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
@@ -150,10 +155,6 @@ The foundation of the plugin is its extensive role and capability management sys
 
 #### Knowhow
 * [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
-
-#### Marketing
-* [Leads] (https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
-* [Calls to Action] (https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts. 
 
 ## Websites
 
