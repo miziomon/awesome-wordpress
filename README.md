@@ -17,6 +17,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Security and Management] (#security-and-management)
 		- [Forms and modules] (#forms-and-modules)
 		- [Move and Backup] (#move-and-backup)
+		- [Marketing] (#marketing)
 	- [Commandline] (#commandline)
 	- [Resources](#resources)
 		- [Classes](#classes)
@@ -47,7 +48,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Kirki](http://kirki.org/) - Kirki is not a framework. It's a Toolkit allowing WordPress developers to use the Customizer and take advantage of its advanced features and flexibility by abstracting the code and making it easier for everyone to create beautiful and meaningful user experiences.
 * [HTML5 Blank](http://html5blank.com/) - The HTML5 WordPress boilerplate theme.
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
-	
+* [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.	
 ## Plugins
 
 ### Featured Plugins
@@ -138,6 +139,11 @@ The foundation of the plugin is its extensive role and capability management sys
 * [MultiSite Clone Duplicator](https://it.wordpress.org/plugins/multisite-clone-duplicator/) - MultiSite Clone Duplicator adds a "Duplicate Site" functionality to your network installation. It allows you to clone any site of your network into a new one : all data, files, users and roles can be copied.
 * [WP-CFM](https://wordpress.org/plugins/wp-cfm/) - WP-CFM lets you copy database configuration to / from the filesystem. Easily deploy configuration changes without needing to copy the entire database. WP-CFM is similar to Drupal's Features module.
 
+
+#### Marketing
+* [Leads] (https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
+* [Calls to Action] (https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts. 
+
 ## Commandline
 
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
@@ -164,6 +170,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Nacin](http://nacin.com/) - WordPress Lead Developer
 * [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
+* [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
 
 #### Resources List
 
