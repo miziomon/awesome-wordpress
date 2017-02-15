@@ -101,6 +101,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/) - Regenerate Thumbnails allows you to regenerate the thumbnails for your image attachments. This is very handy if you've changed any of your thumbnail dimensions (via Settings -> Media) after previously uploading images or have changed to a theme with different featured post image dimensions.
 * [Enable Media Replace](https://wordpress.org/plugins/enable-media-replace/) - Enables replacing attachment files by simply uploading a new file in the media library edit view.
 * [Multiple Post Thumbnails](https://wordpress.org/plugins/multiple-post-thumbnails/) - Adds multiple post thumbnails to a post type. If you've ever wanted more than one Featured Image on a post, this plugin is for you. 
+* [Media from FTP](https://it.wordpress.org/plugins/media-from-ftp/) - Register to media library from files that have been uploaded by FTP. 
 
 #### Performance
 
