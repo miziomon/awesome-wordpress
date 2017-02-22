@@ -75,8 +75,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
 * [Custom Post Type Permalinks](https://wordpress.org/plugins/custom-post-type-permalinks/) - Custom Post Type Permalinks lets you edit the permalink structure of custom post type
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/screenshots/) - Rollback (or forward) any WordPress.org plugin or theme like a boss. 
-* [Members](https://wordpress.org/plugins/members/) - Members is a plugin that extends your control over your blog. It's a user, role, and content management plugin that was created to make WordPress a more powerful CMS.
-The foundation of the plugin is its extensive role and capability management system. This is the backbone of all the current features and planned future features.
+* [Members](https://wordpress.org/plugins/members/) - Members is a plugin that extends your control over your blog. It's a user, role, and content management plugin that was created to make WordPress a more powerful CMS. The foundation of the plugin is its extensive role and capability management system. This is the backbone of all the current features and planned future features.
 * [GitHub Updater](https://github.com/afragen/github-updater) - A simple plugin to enable automatic updates to your GitHub, Bitbucket, or GitLab hosted WordPress plugins and themes. It also allows for the remote installation of plugins or themes.
 * [Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/) - A straightforward WordPress admin tool for inspecting your rewrite rules. View a listing of all your rewrite rules, see which rewrite rules match a given URL (and the priorites they match in), or filter by different sources of rewrite rules. Perform a soft flush of your rewrite rules to regenerate them.
 * [CMB2](https://wordpress.org/plugins/cmb2/) - CMB2 is a metabox, custom fields, and forms library for WordPress that will blow your mind. 
@@ -84,6 +83,7 @@ The foundation of the plugin is its extensive role and capability management sys
 * [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - Simply Show Hooks helps theme and plugin developers to quickly see where all the action and filter hooks are on any WordPress page.
 * [Timber](https://github.com/timber/timber) - Add [Twig](http://twig.sensiolabs.org/doc/templates.html) templating capabilities to your theme and keep your template code separate from your PHP.
 * [Child Theme Check](https://wordpress.org/plugins/child-theme-check/) - Warns you about outdated template files in your child theme and shows a diff view of the changes between parent and child theme template. 
+* [One-Click Child Theme](https://it.wordpress.org/plugins/one-click-child-theme/) - Adds a Theme option to any active theme allowing you to make a child theme. 
 	
 #### Installer and Generators
 
