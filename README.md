@@ -107,6 +107,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Performance
 
 * [WP-Optimize](https://it.wordpress.org/plugins/wp-optimize/) - Simple but effective plugin allows you to extensively clean up your WordPress database and optimize it without doing manual queries. 
+* [P3](https://it.wordpress.org/plugins/p3-profiler/) - This plugin creates a profile of your WordPress site's plugins' performance by measuring their impact on your site's load time.  Often times, WordPress sites load slowly because of poorly configured plugins or because there are so many of them. By using the P3 plugin, you can narrow down anything causing slowness on your site.
 
 #### E-commerce
 
