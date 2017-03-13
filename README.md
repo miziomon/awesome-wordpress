@@ -16,6 +16,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [E-commerce] (#e-commerce)
 		- [Security and Management] (#security-and-management)
 		- [Forms and modules] (#forms-and-modules)
+		- [Widget] (#widget)		
 		- [Move and Backup] (#move-and-backup)
 		- [Marketing] (#marketing)
 	- [Commandline] (#commandline)
@@ -130,6 +131,13 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 * [Caldera Forms](https://it.wordpress.org/plugins/caldera-forms/) - A diffrent kind of WordPress form builder. With an intuitive drag and drop interface -– based on a responsive grid -- and a wide range of add-ons, it’s never been easier to create forms for your WordPress site that look great on any device, thanks to Caldera Forms. 
 * [Ninja Forms](https://it.wordpress.org/plugins/ninja-forms/) - Ninja Forms is the easiest way to build any form you need for your WordPress website. No longer mess with code or worry about made-up limitations. Create the form you want, when you want with a simple drag and drop interface provided by the very powerful Ninja Forms framework.
+
+#### Widget
+
+* [Widget Options](https://it.wordpress.org/plugins/widget-options/) - Get Better Control over your Widgets. Easily show or hide WordPress widgets on specified pages & devices and/or assign custom alignment. 
+* [Widget Logic](https://it.wordpress.org/plugins/widget-logic/) - This plugin gives every widget an extra control field called "Widget logic" that lets you control the pages that the widget will appear on. The text field lets you use WP's Conditional Tags, or any general PHP code.
+* [Widget Output Cache](https://it.wordpress.org/plugins/widget-output-cache/) - Use PHP output buffering to extract widget output and store it into WordPress transients for faster retrieval. It also adds a checkbox to widget controls to exclude it from being cached.
+
 
 #### Move and backup
 *If you need to move your installation*
