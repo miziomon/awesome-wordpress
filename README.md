@@ -19,7 +19,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Widget](#widget)		
 		- [Move and Backup](#move-and-backup)
 		- [Marketing](#marketing)
-	- [Commandline] (#commandline)
+	- [Commandline](#commandline)
 	- [Resources](#resources)
 		- [Classes](#classes)
 		- [Theme Customizer](#theme-customizer)
@@ -58,7 +58,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 *Plugins that have a chance to make it into WordPress core*
 
 * [Shortcake](https://wordpress.org/plugins/shortcode-ui/) - Used alongside add_shortcode, Shortcake supplies a user-friendly interface for adding a shortcode to a post, and viewing and editing it from within the content editor.
-* [Responsive Images](https://wordpress.org/plugins/ricg-responsive-images/) - This plugin works by including all available image sizes for each image upload. Whenever WordPress outputs the image through the media uploader, or whenever a featured image is generated, those sizes will be included in the image tag via the srcset attribute.
 
 #### SEO
 
@@ -154,8 +153,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 
 #### Marketing
-* [Leads] (https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
-* [Calls to Action] (https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts. 
+* [Leads](https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
+* [Calls to Action](https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts. 
 
 ## Commandline
 
@@ -165,7 +164,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 ## Resources
 
 #### Theme Customizer
-* [Multi Image Control] (https://github.com/lucatume/multi-image-control) - A Theme customizer control allowing selection and sorting of multiple images.
+* [Multi Image Control](https://github.com/lucatume/multi-image-control) - A Theme customizer control allowing selection and sorting of multiple images.
 
 #### Classes
 * [wp-custom-post-type-class](https://github.com/jjgrainger/wp-custom-post-type-class) - A PHP Class for creating Wordpress Custom Post Types easily 
@@ -184,6 +183,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
+* [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
 
 #### Resources List
 
