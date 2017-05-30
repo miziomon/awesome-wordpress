@@ -105,6 +105,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Multiple Post Thumbnails](https://wordpress.org/plugins/multiple-post-thumbnails/) - Adds multiple post thumbnails to a post type. If you've ever wanted more than one Featured Image on a post, this plugin is for you. 
 * [Media from FTP](https://it.wordpress.org/plugins/media-from-ftp/) - Register to media library from files that have been uploaded by FTP. 
 * [WP Tiles](https://it.wordpress.org/plugins/wp-tiles/) - Add beautiful, fully customizable post tiles or tiled galleries anywhere on your WordPress site easily with WP Tiles. 
+* [Wanna Isotope](https://it.wordpress.org/plugins/wanna-isotope/) - A plugin to easily build Isotope/Masonry layouts with any content (posts, pages or custom post types). Responsive grids, filterable content.
+* [Polaroid Gallery](https://it.wordpress.org/plugins/polaroid-gallery/) - Polaroid Gallery is a CSS3 & jQuery Image Gallery plugin for WordPress Media Library. It is used to overlay images as polaroid pictures on the current page or post and uses WordPress Media Library. Using Polaroid Gallery you add unique view for your blog posts. Polaroid Gallery adds feeling of old good times.
 
 #### Performance
 
@@ -195,6 +197,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Toolbox of the Smart WordPress Developer](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-series-introduction--cms-23663) - Is the core of WordPress enough for you? No, probably not. Almost all the time, we install WordPress plugins and themes to help build our websites. And that's all right, because WordPress isn't meant to be a one-size-fits-all solution. We do need extra functionality and design elements, and we meet our needs with plugins and themes... and more.
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
+
 
 ## Books
 
