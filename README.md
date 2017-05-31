@@ -10,6 +10,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Featured Plugins](#featured-plugins)
 		- [SEO](#seo)
 		- [Dev](#dev-plugins)
+		- [Custom Post Type](#custom-post-type)
 		- [Installer and Generators](#installer-and-generators)
 		- [Images and Media Gallery](#images-and-media-gallery)
 		- [Performance](#performance)
@@ -74,7 +75,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Revisr](https://wordpress.org/plugins/revisr/) - Revisr allows you to manage your WordPress website with a Git repository. A must have plugin for deploying and managing WordPress using Git repositories.
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
-* [Custom Post Type Permalinks](https://wordpress.org/plugins/custom-post-type-permalinks/) - Custom Post Type Permalinks lets you edit the permalink structure of custom post type
 * [WP Rollback](https://wordpress.org/plugins/wp-rollback/screenshots/) - Rollback (or forward) any WordPress.org plugin or theme like a boss. 
 * [Members](https://wordpress.org/plugins/members/) - Members is a plugin that extends your control over your blog. It's a user, role, and content management plugin that was created to make WordPress a more powerful CMS. The foundation of the plugin is its extensive role and capability management system. This is the backbone of all the current features and planned future features.
 * [GitHub Updater](https://github.com/afragen/github-updater) - A simple plugin to enable automatic updates to your GitHub, Bitbucket, or GitLab hosted WordPress plugins and themes. It also allows for the remote installation of plugins or themes.
@@ -87,6 +87,17 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Child Theme Check](https://wordpress.org/plugins/child-theme-check/) - Warns you about outdated template files in your child theme and shows a diff view of the changes between parent and child theme template. 
 * [One-Click Child Theme](https://it.wordpress.org/plugins/one-click-child-theme/) - Adds a Theme option to any active theme allowing you to make a child theme. 
 	
+
+### Custom Post Type
+
+* [Custom Post Type UI](https://wordpress.org/plugins/custom-post-type-ui/) - Custom Post Type UI provides an easy to use interface for registering and managing custom post types and taxonomies for your website.
+* [Toolset Types](https://wordpress.org/plugins/types//) - Toolset Types let’s you add custom post types, custom fields and custom taxonomies to the WordPress admin. A convenient dashboard lets you control everything from one place.
+* [Pods](https://wordpress.org/plugins/pods/) - Manage all your custom content needs in ONE location with the Pods Framework. You can create and edit custom post types, taxonomy, fields and extend existing WordPress objects like users, media, posts and pages or extend other plugins’ custom post types — all from Pods.
+* [WordPress Creation Kit](https://wordpress.org/plugins/wck-custom-fields-and-custom-post-types-creator/) - WordPress Creation Kit consists of three tools that can help you create and maintain custom post types, custom taxonomies and most importantly, custom fields and metaboxes for your posts, pages or CPT’s.
+* [MB Custom Post Type](https://wordpress.org/plugins/mb-custom-post-type/) - MB Custom Post Type helps you to create and manage custom post types and custom taxonomies easily in WordPress by providing an easy-to-use interface in the admin area.
+* [Custom Post Type Permalinks](https://wordpress.org/plugins/custom-post-type-permalinks/) - Custom Post Type Permalinks lets you edit the permalink structure of custom post type
+
+
 #### Installer and Generators
 
 * [WP Quick Install](http://wp-quick-install.com/) - WordPress installation could be long: downloading, decompressing, uploading, plugins and themes installation. WP Quick Install will take care all of this things. Simply upload this tiny script where you want to install WordPress
