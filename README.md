@@ -59,6 +59,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 *Plugins that have a chance to make it into WordPress core*
 
 * [Shortcake](https://wordpress.org/plugins/shortcode-ui/) - Used alongside add_shortcode, Shortcake supplies a user-friendly interface for adding a shortcode to a post, and viewing and editing it from within the content editor.
+* [Gutenberg](https://wordpress.org/plugins/gutenberg/) - The new post and page building experience will make writing rich posts effortless, making it easy to do what today might take shortcodes, custom HTML, or “mystery meat” embed discovery.
 
 #### SEO
 
