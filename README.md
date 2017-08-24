@@ -214,6 +214,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Chris Lema](http://chrislema.com/blog/) - Thoughts about WordPress.
 * [Igor Benić](http://www.ibenic.com/) - WordPress developer who writes and teaches everything about WordPress.
 * [Remi Corson](http://www.remicorson.com/) - WordPress developer but not only.
+* [Caleb Burks](https://calebburks.com/) -WooCommerce Ninja and Automattician.
 
 #### Resources List
 
