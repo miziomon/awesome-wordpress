@@ -135,7 +135,6 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 
 #### Caching
 
-* [Awesome WP Speed Up](https://github.com/lukecav/awesome-wp-speed-up) - Resource of caching options for WordPress sites.
 * [Cache Enabler](https://wordpress.org/plugins/cache-enabler/) - Simple and fast WordPress disk caching plugin.
 
 #### Security and Management
@@ -226,6 +225,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Toolbox of the Smart WordPress Developer](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-series-introduction--cms-23663) - Is the core of WordPress enough for you? No, probably not. Almost all the time, we install WordPress plugins and themes to help build our websites. And that's all right, because WordPress isn't meant to be a one-size-fits-all solution. We do need extra functionality and design elements, and we meet our needs with plugins and themes... and more.
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
+* [Awesome WP Speed Up](https://github.com/lukecav/awesome-wp-speed-up) - Resource of caching options for WordPress sites.
 
 
 ## Books
