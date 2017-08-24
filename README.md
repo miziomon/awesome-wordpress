@@ -226,6 +226,12 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
 * [Awesome WP Speed Up](https://github.com/lukecav/awesome-wp-speed-up) - Resource of caching options for WordPress sites.
+* [Awesome Gravity Forms](https://github.com/lukecav/awesome-gravity-forms) - A collection of third party add-ons for Gravity Forms plugin.
+* [Awesome Elementor](https://github.com/lukecav/awesome-elementor) - A collection of third party add-ons for Elementor page builder plugin.
+* [Awesome Beaver Builder Extensions](https://github.com/lukecav/awesome-beaver-builder) - Extensions for the awesome Beaver Builder page builder plugin for WordPress.
+* [Awesome WooCommerce](https://github.com/lukecav/awesome-woocommerce) - Plugins and code snippets for your WC store.
+* [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
+* [Awesome ACF](https://github.com/lukecav/awesome-acf/) - A collection of third party add-ons for Advanced Custom Fields plugin for WordPress.
 
 
 ## Books
