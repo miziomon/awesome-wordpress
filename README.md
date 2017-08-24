@@ -201,11 +201,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 ## Websites
 
 * [Stackexchange](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
-* [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
+* [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development.
 * [Mark on WordPress](https://markjaquith.wordpress.com/) - WordPress puts food on my table.
-* [Otto on WordPress](http://ottopress.com/) - You have to use an Ottopress to get fresh squeezed Otto
-* [Nacin](http://nacin.com/) - WordPress Lead Developer
-* [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source
+* [Otto on WordPress](http://ottopress.com/) - You have to use an Ottopress to get fresh squeezed Otto.
+* [Nacin](http://nacin.com/) - WordPress Lead Developer.
+* [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source.
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
 * [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
@@ -214,7 +214,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Chris Lema](http://chrislema.com/blog/) - Thoughts about WordPress.
 * [Igor Benić](http://www.ibenic.com/) - WordPress developer who writes and teaches everything about WordPress.
 * [Remi Corson](http://www.remicorson.com/) - WordPress developer but not only.
-* [Caleb Burks](https://calebburks.com/) -WooCommerce Ninja and Automattician.
+* [Caleb Burks](https://calebburks.com/) - WooCommerce Ninja and Automattician.
+* [Delicious Brains](https://deliciousbrains.com/blog/) - We make super awesome products for WordPress.
 
 #### Resources List
 
