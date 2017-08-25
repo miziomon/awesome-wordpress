@@ -209,7 +209,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
 * [WooCommerce](https://woocommerce.com/blog/) - Tips, tricks and eCommerce inspiration from WooCommerce experts.
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
-* [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
+* [WordPress Tavern](https://wptavern.com/) - WP Tavern has news and a weekly podcast on Wordpress and its ecosystem.
 * [Sell with WP](https://www.sellwithwp.com/) - We build eCommerce sites and the software that powers them.
 * [SkyVerge](https://www.skyverge.com/blog/) - We specialize in all things eCommerce, and pride ourselves on building top-tier WooCommerce extensions, Shopify apps, and custom eCommerce software.
 * [Chris Lema](http://chrislema.com/blog/) - Thoughts about WordPress.
