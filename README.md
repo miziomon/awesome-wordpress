@@ -142,6 +142,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Stream](https://wordpress.org/plugins/stream/) - Stream is the easiest and safest way to track content changes happening to your WordPress site and then view them in beautifully organized detail. 
 * [Simple Login Log](https://wordpress.org/plugins/simple-login-log/) - This plugin keeps a log of WordPress user logins. Offers user and date filtering, and export features.
 * [iThemes Security](https://wordpress.org/plugins/better-wp-security/) - Take the guesswork out of WordPress security. iThemes Security offers 30+ ways to lock down WordPress in an easy-to-use WordPress security plugin.
+* [Sucuri Security – Auditing, Malware Scanner and Security Hardening](https://wordpress.org/plugins/sucuri-scanner/) - It combines features:Remote Malware Scanning,File Integrity Monitoring, Security Activity Auditing, Blacklist Monitoring etc..
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
 
 
