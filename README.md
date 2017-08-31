@@ -1,8 +1,6 @@
 # Awesome WordPress
 A curated list of amazingly awesome WordPress resources, themes, plugins and shiny things. 
 
-Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php](https://github.com/ziadoz/awesome-php).
-
 - [Awesome WordPress](#awesome-wordpress)
 	- [Core](#core)
 	- [Themes and Framework](#themes-and-framework)
@@ -15,11 +13,13 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Images and Media Gallery](#images-and-media-gallery)
 		- [Performance](#performance)
 		- [E-commerce](#e-commerce)
+		- [Caching](#caching)
 		- [Security and Management](#security-and-management)
 		- [Forms and modules](#forms-and-modules)
 		- [Widget](#widget)		
 		- [Move and Backup](#move-and-backup)
 		- [Marketing](#marketing)
+		- [Facebook Ads](#facebook-ads)
 	- [Commandline](#commandline)
 	- [Resources](#resources)
 		- [Classes](#classes)
@@ -52,6 +52,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
 * [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.
 * [Titan Framework](https://github.com/gambitph/Titan-Framework) - The easiest to use WordPress options framework. Titan Framework allows theme and plugin developers to create admin pages, options, meta boxes, and theme customizer options with just a few simple lines of code.
+* [PIKLIST](https://wordpress.org/plugins/piklist/) - The most powerful framework available for WordPress.
+* [WP Developer Theme] (https://github.com/heitorspedroso/wp-developer-theme) - This Theme was developed to be a fast tool in the developer's hands, through it the developer can already create the theme without worrying about the file structure that is already ready and with pre-defined loops without influence in html / css.
 
 ## Plugins
 
@@ -63,16 +65,15 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 #### SEO
 
+* [Safe Redirect Manager](https://wordpress.org/plugins/safe-redirect-manager/) - Easily and safely manage HTTP redirects.
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files. 
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin. 
-* [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - This plugin will monitor your blog looking for broken links and let you know if any are found.
 
 #### Dev Plugins
 *Plugins can help in your workflow*
 
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - he theme check plugin is an easy way to test your theme and make sure it's up to spec with the latest theme review standards. With it, you can run all the same automated testing tools on your theme that WordPress.org uses for theme submissions.
-* [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) - Efficient many-to-many connections between posts, pages, custom post types, users. 
-* [TGM Plugin Activation](tgmpluginactivation.com/) - TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet. 
+* [TGM Plugin Activation](https://github.com/TGMPA/TGM-Plugin-Activation) - TGM Plugin Activation is a PHP library that allows you to easily require or recommend plugins for your WordPress themes (and plugins). It allows your users to install and even automatically activate plugins in singular or bulk fashion using native WordPress classes, functions and interfaces. You can reference pre-packaged plugins, plugins from the WordPress Plugin Repository or even plugins hosted elsewhere on the internet. 
 * [Revisr](https://wordpress.org/plugins/revisr/) - Revisr allows you to manage your WordPress website with a Git repository. A must have plugin for deploying and managing WordPress using Git repositories.
 * [Debug Bar](http://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
 * [Debug Bar Extender](http://wordpress.org/plugins/debug-bar-extender/) - Extends the debug-bar plugin with additional tabs to measure runtimes between checkpoints and lookup variable content. 
@@ -87,6 +88,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Timber](https://github.com/timber/timber) - Add [Twig](http://twig.sensiolabs.org/doc/templates.html) templating capabilities to your theme and keep your template code separate from your PHP.
 * [Child Theme Check](https://wordpress.org/plugins/child-theme-check/) - Warns you about outdated template files in your child theme and shows a diff view of the changes between parent and child theme template. 
 * [One-Click Child Theme](https://wordpress.org/plugins/one-click-child-theme/) - Adds a Theme option to any active theme allowing you to make a child theme. 
+* [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Monitoring of database queries, hooks, conditionals and more.
 	
 
 ### Custom Post Type
@@ -122,13 +124,17 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Performance
 
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - Simple but effective plugin allows you to extensively clean up your WordPress database and optimize it without doing manual queries. 
-* [P3](https://wordpress.org/plugins/p3-profiler/) - This plugin creates a profile of your WordPress site's plugins' performance by measuring their impact on your site's load time.  Often times, WordPress sites load slowly because of poorly configured plugins or because there are so many of them. By using the P3 plugin, you can narrow down anything causing slowness on your site.
+* [WP Disable](https://wordpress.org/plugins/wp-disable/) - Improve WordPress performance by disabling unused items.
 * [Plugin Load Filter](https://wordpress.org/plugins/plugin-load-filter/) - Although have installed a lot of plugins, if you do not want to activate for all of the pages, you will be able to deactivate unnecessary plugins of each individual page. Through the filter activation of plugins, you can speed up the display response.
 
 #### E-commerce
 
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - Easy Digital Downloads is a complete e-commerce solution for selling digital products in a light, performant, and easy to use plugin. Rather that attempting to provide every feature under the sun, Easy Digital Downloads makes selling digital simple and complete by providing just the features you need.
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - Transform your WordPress website into a thoroughbred eCommerce store. Delivering enterprise-level quality and features, backed by a name you can trust. Say "hello" to the WooCommerce eCommerce plugin.
+
+#### Caching
+
+* [Cache Enabler](https://wordpress.org/plugins/cache-enabler/) - Simple and fast WordPress disk caching plugin.
 
 #### Security and Management
 *Antispam, prevent brute force, ecc*
@@ -141,6 +147,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Antispam Bee](https://wordpress.org/plugins/antispam-bee/) - Say Goodbye to comment spam on your WorddPress blog or website. Antispam Bee blocks spam comments and trackbacks effectively and without captchas. It is free of charge, ad-free and compliant with European data privacy standards.
 * [Stream](https://wordpress.org/plugins/stream/) - Stream is the easiest and safest way to track content changes happening to your WordPress site and then view them in beautifully organized detail. 
 * [Simple Login Log](https://wordpress.org/plugins/simple-login-log/) - This plugin keeps a log of WordPress user logins. Offers user and date filtering, and export features.
+* [Sucuri Security – Auditing, Malware Scanner and Security Hardening](https://wordpress.org/plugins/sucuri-scanner/) - The <a Sucuri plugin provides the website owner the best Activity Auditing, SiteCheck Remote Malware Scanning, Effective Security Hardening and Post-Hack features. SiteCheck will check for malware, spam, blacklisting and other security issues like .htaccess redirects, hidden eval code, etc.
 * [iThemes Security](https://wordpress.org/plugins/better-wp-security/) - Take the guesswork out of WordPress security. iThemes Security offers 30+ ways to lock down WordPress in an easy-to-use WordPress security plugin.
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
 
@@ -172,6 +179,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Leads](https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
 * [Calls to Action](https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts. 
 
+#### Facebook Ads
+* [Pixel Caffeine] (https://wordpress.org/support/plugin/pixel-caffeine/) - The simplest and easiest way to manage your Facebook Pixel needs and create laser focused custom audiences on WordPress.
+
 ## Commandline
 
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
@@ -192,14 +202,22 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 ## Websites
 
 * [Stackexchange](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
-* [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
+* [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development.
 * [Mark on WordPress](https://markjaquith.wordpress.com/) - WordPress puts food on my table.
-* [Otto on WordPress](http://ottopress.com/) - You have to use an Ottopress to get fresh squeezed Otto
-* [Nacin](http://nacin.com/) - WordPress Lead Developer
-* [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source
+* [Otto on WordPress](http://ottopress.com/) - You have to use an Ottopress to get fresh squeezed Otto.
+* [Nacin](http://nacin.com/) - WordPress Lead Developer.
+* [Konstantin Kovshenin](http://kovshenin.com/) - WordPress, Automattic and Open Source.
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
+* [WooCommerce](https://woocommerce.com/blog/) - Tips, tricks and eCommerce inspiration from WooCommerce experts.
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
-* [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
+* [WordPress Tavern](https://wptavern.com/) - WP Tavern has news and a weekly podcast on Wordpress and its ecosystem.
+* [Sell with WP](https://www.sellwithwp.com/) - We build eCommerce sites and the software that powers them.
+* [SkyVerge](https://www.skyverge.com/blog/) - We specialize in all things eCommerce, and pride ourselves on building top-tier WooCommerce extensions, Shopify apps, and custom eCommerce software.
+* [Chris Lema](http://chrislema.com/blog/) - Thoughts about WordPress.
+* [Igor Benić](http://www.ibenic.com/) - WordPress developer who writes and teaches everything about WordPress.
+* [Remi Corson](http://www.remicorson.com/) - WordPress developer but not only.
+* [Caleb Burks](https://calebburks.com/) - WooCommerce Ninja and Automattician.
+* [Delicious Brains](https://deliciousbrains.com/blog/) - We make super awesome products for WordPress.
 
 #### Resources List
 
@@ -208,6 +226,13 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Toolbox of the Smart WordPress Developer](http://code.tutsplus.com/tutorials/toolbox-of-the-smart-wordpress-developer-series-introduction--cms-23663) - Is the core of WordPress enough for you? No, probably not. Almost all the time, we install WordPress plugins and themes to help build our websites. And that's all right, because WordPress isn't meant to be a one-size-fits-all solution. We do need extra functionality and design elements, and we meet our needs with plugins and themes... and more.
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
+* [Awesome WP Speed Up](https://github.com/lukecav/awesome-wp-speed-up) - Resource of caching options for WordPress sites.
+* [Awesome Gravity Forms](https://github.com/lukecav/awesome-gravity-forms) - A collection of third party add-ons for Gravity Forms plugin.
+* [Awesome Elementor](https://github.com/lukecav/awesome-elementor) - A collection of third party add-ons for Elementor page builder plugin.
+* [Awesome Beaver Builder Extensions](https://github.com/lukecav/awesome-beaver-builder) - Extensions for the awesome Beaver Builder page builder plugin for WordPress.
+* [Awesome WooCommerce](https://github.com/lukecav/awesome-woocommerce) - Plugins and code snippets for your WC store.
+* [Awesome WP Developer Tools](https://github.com/lukecav/awesome-wp-developer-tools) - A collection of plugins, starter themes and tools to make WordPress development easier.
+* [Awesome ACF](https://github.com/lukecav/awesome-acf/) - A collection of third party add-ons for Advanced Custom Fields plugin for WordPress.
 
 
 ## Books
