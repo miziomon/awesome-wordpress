@@ -127,6 +127,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 #### E-commerce
 
+* [Hubaga](https://github.com/picocodes/hubaga/) - Hubaga is a lightweight eCommerce plugin for developers. It was has a lot of optimisations that increase your conversion rates such as a single-field checkout and [instacheck](https://hubaga.com).
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - Easy Digital Downloads is a complete e-commerce solution for selling digital products in a light, performant, and easy to use plugin. Rather that attempting to provide every feature under the sun, Easy Digital Downloads makes selling digital simple and complete by providing just the features you need.
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - Transform your WordPress website into a thoroughbred eCommerce store. Delivering enterprise-level quality and features, backed by a name you can trust. Say "hello" to the WooCommerce eCommerce plugin.
 
