@@ -119,6 +119,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [WP Tiles](https://wordpress.org/plugins/wp-tiles/) - Add beautiful, fully customizable post tiles or tiled galleries anywhere on your WordPress site easily with WP Tiles.
 * [Wanna Isotope](https://wordpress.org/plugins/wanna-isotope/) - A plugin to easily build Isotope/Masonry layouts with any content (posts, pages or custom post types). Responsive grids, filterable content.
 * [Polaroid Gallery](https://wordpress.org/plugins/polaroid-gallery/) - Polaroid Gallery is a CSS3 & jQuery Image Gallery plugin for WordPress Media Library. It is used to overlay images as polaroid pictures on the current page or post and uses WordPress Media Library. Using Polaroid Gallery you add unique view for your blog posts. Polaroid Gallery adds feeling of old good times.
+* [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Reduce disk space and upload time by having your images generated in custom sizes dynamically, on-the-fly.
 
 #### Performance
 
