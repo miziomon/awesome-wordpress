@@ -210,7 +210,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
 * [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
 * [Quora](https://www.quora.com/topic/WordPress) - Q&A in Quora for Wordpress users and developers.
-* [Wordpress subreddit](https://www.reddit.com/r/Wordpress/) - Subreddit for news, articles and discussion regarding WordPress. For advanced user try the [ProWordpress subreddit](https://www.reddit.com/r/Wordpress/)-
+* [Wordpress subreddit](https://www.reddit.com/r/Wordpress/) - Subreddit for news, articles and discussion regarding WordPress. For advanced users try the [ProWordpress subreddit](https://www.reddit.com/r/ProWordPress/)
 #### Resources List
 
 * [Awesome WordPress by dropndot](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
