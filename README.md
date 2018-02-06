@@ -198,7 +198,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Knowhow
 * [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
-## Websites
+#### Websites
 
 * [Stackexchange](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
 * [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
@@ -209,7 +209,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
 * [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
-
+* [Quora](https://www.quora.com/topic/WordPress) - Q&A in Quora for Wordpress users and developers.
+* [Wordpress subreddit](https://www.reddit.com/r/Wordpress/) - Subreddit for news, articles and discussion regarding WordPress. For advanced users try the [ProWordpress subreddit](https://www.reddit.com/r/ProWordPress/)
 #### Resources List
 
 * [Awesome WordPress by dropndot](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
