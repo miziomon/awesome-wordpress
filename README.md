@@ -209,8 +209,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
 * [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
-* [Quora](https://www.quora.com/topic/WordPress) - Q&A in Quora for Wordpress users and developers
-* [Wordpress subreddit](https://www.reddit.com/r/Wordpress/) - Subreddit for news, articles and discussion regarding WordPress.
+* [Quora](https://www.quora.com/topic/WordPress) - Q&A in Quora for Wordpress users and developers.
+* [Wordpress subreddit](https://www.reddit.com/r/Wordpress/) - Subreddit for news, articles and discussion regarding WordPress. For advanced user try the [ProWordpress subreddit](https://www.reddit.com/r/Wordpress/)-
 #### Resources List
 
 * [Awesome WordPress by dropndot](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
