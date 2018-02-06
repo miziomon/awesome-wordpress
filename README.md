@@ -198,7 +198,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Knowhow
 * [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
-## Websites
+#### Websites
 
 * [Stackexchange](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
 * [Tom McFarlin](https://tommcfarlin.com/about/) - A Perspective on Professional WordPress Development
