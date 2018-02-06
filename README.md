@@ -209,6 +209,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Automattic](http://automattic.com/) - We are the people behind WordPress.com, which serves more than 15.8 billion pages a month, as well as a host of other popular services, such as Akismet, Jetpack, and VaultPress.  We are strong believers in Open Source, and the vast majority of our work is available under licenses like the GPL.
 * [WPChat](http://www.wpchat.com) - Popular Forum for WordPress discussion.
 * [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
+* [https://www.quora.com/topic/WordPress](https://www.quora.com/topic/WordPress) - Q&A in Quora for Wordpress users and developers
 
 #### Resources List
 
