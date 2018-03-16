@@ -121,6 +121,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Wanna Isotope](https://wordpress.org/plugins/wanna-isotope/) - A plugin to easily build Isotope/Masonry layouts with any content (posts, pages or custom post types). Responsive grids, filterable content.
 * [Polaroid Gallery](https://wordpress.org/plugins/polaroid-gallery/) - Polaroid Gallery is a CSS3 & jQuery Image Gallery plugin for WordPress Media Library. It is used to overlay images as polaroid pictures on the current page or post and uses WordPress Media Library. Using Polaroid Gallery you add unique view for your blog posts. Polaroid Gallery adds feeling of old good times.
 * [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Reduce disk space and upload time by having your images generated in custom sizes dynamically, on-the-fly.
+* [Sirv Image CDN](https://wordpress.org/plugins/sirv/) - Optimize and resize images on-the-fly with Sirv's Image CDN. Manipulate images by simply changing the URL. 
 
 #### Performance
 
