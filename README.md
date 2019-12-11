@@ -161,6 +161,10 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
 * [CloudFlare WAF and CDN](https://www.cloudflare.com/integrations/wordpress/) = CloudFlare offers managed WAF (Web Application Firewall) rules for WordPress, CDN, and DDOS mitigation for WordPress sites
 
+#### Dashboard
+
+* [Frontend Dashboard](https://wordpress.org/plugins/frontend-dashboard/) - Frontend Dashboard is bundled with the huge list of custom features which can easily customise the User profile, Posts, Login, Register, Custom roles on the custom front page.
+
 
 #### Forms and modules
 
