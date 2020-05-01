@@ -192,6 +192,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 
 #### Marketing
+* [Product Reviews and Ratings for WooCommerce](https://wordpress.org/plugins/sparrow/) - Collect product reviews on autopilot and boost conversions & increase organic CTR with star ratings in Google.
 * [Leads](https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
 * [Calls to Action](https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts.
 
