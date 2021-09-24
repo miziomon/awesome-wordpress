@@ -245,6 +245,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Digging Into WordPress](https://digwp.com/book/) - There is much to learn about the World’s most popular publishing platform. From your first steps of learning about WordPress all the way through securing, customizing, and maintaining your site into the future, this book is packed with truly practical information.
 * [The Story of WordPress](https://github.com/WordPress/book) - The history and development of WordPress. The book is currently in version 1, having been written by Siobhan McKeown, edited by Krista Stevens, and with helpful pull requests from members of the community.
 
+## Apps
+* [ONA or Open News App](https://github.com/vikasbukhari/ONA-OPENNEWSAPP) - ONA or Open News App is an open source React Native based application for WordPress News and Blog Websites.
+
 ## Contributing
 
 We welcome any contributions to the this awesome list! Please send us a pull request.
