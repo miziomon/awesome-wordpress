@@ -101,6 +101,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Timber](https://github.com/timber/timber) - Add [Twig](http://twig.sensiolabs.org/doc/templates.html) templating capabilities to your theme and keep your template code separate from your PHP.
 * [Child Theme Check](https://wordpress.org/plugins/child-theme-check/) - Warns you about outdated template files in your child theme and shows a diff view of the changes between parent and child theme template.
 * [One-Click Child Theme](https://wordpress.org/plugins/one-click-child-theme/) - Adds a Theme option to any active theme allowing you to make a child theme.
+* [Free PO editor](https://pofile.net/free-po-editor) - Free PO file editor for translations in Wordpress.
 
 
 ### Custom Post Type
