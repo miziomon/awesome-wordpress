@@ -239,6 +239,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
 * [Best WordPress Hosting Providers Compared](https://thishosting.rocks/best-wordpress-hosting/) - Detailed article/comparison of the best WordPress hosting providers.
+* [WordPress Courses at Classpert](https://classpert.com/wordpress) - A list of over 900 WordPress Courses (free and paid) at Classpert Online Course Search
 
 
 ## Books
