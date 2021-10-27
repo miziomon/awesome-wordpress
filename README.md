@@ -83,6 +83,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Dev Plugins
 *Plugins can help in your workflow*
 
+* [wp-backup](https://github.com/tanrax/wp-backup) - Simple tool to manage WordPress backups in pure Bash.
 * [Theme Check](https://wordpress.org/plugins/theme-check/) - The theme check plugin is an easy way to test your theme and make sure it's up to spec with the latest theme review standards. With it, you can run all the same automated testing tools on your theme that WordPress.org uses for theme submissions.
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is the developer tools panel for WordPress. It enables debugging of database queries, PHP errors, hooks and actions, block editor blocks, enqueued scripts and stylesheets, HTTP API calls, and more.
 * [Posts 2 Posts](https://wordpress.org/plugins/posts-to-posts/) - Efficient many-to-many connections between posts, pages, custom post types, users.
