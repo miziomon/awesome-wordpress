@@ -138,7 +138,6 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Performance
 
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - Simple but effective plugin allows you to extensively clean up your WordPress database and optimize it without doing manual queries.
-* [P3](https://wordpress.org/plugins/p3-profiler/) - This plugin creates a profile of your WordPress site's plugins' performance by measuring their impact on your site's load time.  Often times, WordPress sites load slowly because of poorly configured plugins or because there are so many of them. By using the P3 plugin, you can narrow down anything causing slowness on your site.
 * [Plugin Load Filter](https://wordpress.org/plugins/plugin-load-filter/) - Although have installed a lot of plugins, if you do not want to activate for all of the pages, you will be able to deactivate unnecessary plugins of each individual page. Through the filter activation of plugins, you can speed up the display response.
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/) - Autoptimize is an effective performance tool that speeds up a website by optimizing JS, CSS, images (incl. lazy-load), HTML and Google Fonts, asyncing JS, removing emoji cruft and more.
 
