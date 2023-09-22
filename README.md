@@ -230,6 +230,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [WordPress Tavern](https://wptavern.com/) - WPTavern has news and a weekly podcast on Wordpress and its ecosystem.
 * [Quora](https://www.quora.com/topic/WordPress) - Q&A in Quora for Wordpress users and developers.
 * [Wordpress subreddit](https://www.reddit.com/r/Wordpress/) - Subreddit for news, articles and discussion regarding WordPress. For advanced users try the [ProWordpress subreddit](https://www.reddit.com/r/ProWordPress/)
+* [WP-Kama](https://wp-kama.com/) - WP-Kama is a website that provides resources and information about the WordPress content management system. The website is available in both English and Russian.
 #### Resources List
 
 * [Awesome WordPress by dropndot](https://github.com/dropndot/awesome-wordpress) - A curated list of Awesome WordPress Theme, Plugins and Framework development Resources and WordPress Communities.
