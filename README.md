@@ -245,6 +245,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 * [Digging Into WordPress](https://digwp.com/book/) - There is much to learn about the World’s most popular publishing platform. From your first steps of learning about WordPress all the way through securing, customizing, and maintaining your site into the future, this book is packed with truly practical information.
 * [The Story of WordPress](https://github.com/WordPress/book) - The history and development of WordPress. The book is currently in version 1, having been written by Siobhan McKeown, edited by Krista Stevens, and with helpful pull requests from members of the community.
+* [AI-Powered WordPress](https://www.manning.com/books/ai-powered-wordpress) - A book that enables anyone to harness artificial intelligence to create impressive and professional-looking WordPress websites.
 
 ## Contributing
 
