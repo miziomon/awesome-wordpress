@@ -115,6 +115,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 #### Installer and Generators
 
+* [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click deployment and management suite for WordPress and others on your computer. Effortlessly takes care of your IP address, maintenance and all.
 * [WP Quick Install](http://wp-quick-install.com/) - WordPress installation could be long: downloading, decompressing, uploading, plugins and themes installation. WP Quick Install will take care all of this things. Simply upload this tiny script where you want to install WordPress
 * [GenerateWP](http://generatewp.com/) - The easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake and dummy content to your WordPress, great for developers who need testing
