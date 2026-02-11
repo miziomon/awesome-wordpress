@@ -173,6 +173,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 * [Caldera Forms](https://wordpress.org/plugins/caldera-forms/) - A different kind of WordPress form builder. With an intuitive drag and drop interface -– based on a responsive grid -- and a wide range of add-ons, it’s never been easier to create forms for your WordPress site that look great on any device, thanks to Caldera Forms.
 * [Ninja Forms](https://wordpress.org/plugins/ninja-forms/) - Ninja Forms is the easiest way to build any form you need for your WordPress website. No longer mess with code or worry about made-up limitations. Create the form you want, when you want with a simple drag and drop interface provided by the very powerful Ninja Forms framework.
+* [Global Search for Gravity Forms](https://oddjar.com/wordpress-plugins/global-search-for-gravity-forms/) - Cross-form entry search for the Gravity Forms admin, allowing you to search across all form entries from a single interface.
+* [Form Analytics Pro for Gravity Forms](https://oddjar.com/wordpress-plugins/form-analytics-pro-for-gravity-forms/) - Zero-config form conversion tracking for Gravity Forms with built-in analytics dashboard.
 
 #### Widget
 
