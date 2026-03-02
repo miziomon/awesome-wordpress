@@ -10,6 +10,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 	- [Plugins](#plugins)
 		- [Featured Plugins](#featured-plugins)
 		- [SEO](#seo)
+		- [Accessibility](#accessibility)
 		- [Dev](#dev-plugins)
 		- [Custom Post Type](#custom-post-type)
 		- [Installer and Generators](#installer-and-generators)
@@ -79,6 +80,15 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - This plugin will monitor your blog looking for broken links and let you know if any are found.
+
+#### Accessibility
+*Tools for improving and testing website accessibility*
+
+* [WP Accessibility](https://wordpress.org/plugins/wp-accessibility/) - Helps with a variety of common accessibility problems in WordPress themes, including skip links, language attributes, and image handling.
+* [Starter Starter](https://developer.wordpress.org/themes/functionality/accessibility/) - WordPress's built-in accessibility-ready theme tag and guidelines for creating accessible themes.
+* [Sa11y](https://sa11y.netlify.app/) - An accessibility quality assurance tool that visually highlights common accessibility and usability issues. Available as a WordPress plugin and bookmarklet.
+* [Editoria11y](https://wordpress.org/plugins/editoria11y-accessibility-checker/) - An accessibility checker that runs automatically when content editors are logged in, finding common issues in page content.
+* [RatedWithAI](https://ratedwithai.com) - AI-powered website accessibility scanner that checks for WCAG 2.2, ADA, and Section 508 compliance. Free online scanner with detailed remediation guidance.
 
 #### Dev Plugins
 *Plugins can help in your workflow*
