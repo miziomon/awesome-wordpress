@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Rewrite Rules Inspector](https://wordpress.org/plugins/rewrite-rules-inspector/) - A straightforward WordPress admin tool for inspecting your rewrite rules. View a listing of all your rewrite rules, see which rewrite rules match a given URL (and the priorities they match in), or filter by different sources of rewrite rules. Perform a soft flush of your rewrite rules to regenerate them.
 * [CMB2](https://wordpress.org/plugins/cmb2/) - CMB2 is a metabox, custom fields, and forms library for WordPress that will blow your mind.
 * [Ship](http://ship.getherbert.com/) - Tag a release on GitHub and have it automatically shipped to the official WordPress.org plugin SVN
+* [MapMetrics Map Plugin](https://github.com/MapMetrics/mapmetrics-map-plugin-wordpress) - Interactive vector map block for WordPress using MapMetrics GL with geocoding, routing, and search.
 * [Simply Show Hooks](https://wordpress.org/plugins/simply-show-hooks/) - Simply Show Hooks helps theme and plugin developers to quickly see where all the action and filter hooks are on any WordPress page.
 * [WP Inspect](https://wordpress.org/plugins/wp-inspect/) - The WP Inspect plugin visually annotates pages with the actions & filters (hooks) invoked during the request life cycle.
 * [Timber](https://github.com/timber/timber) - Add [Twig](http://twig.sensiolabs.org/doc/templates.html) templating capabilities to your theme and keep your template code separate from your PHP.
