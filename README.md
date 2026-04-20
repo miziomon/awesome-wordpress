@@ -76,6 +76,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 #### SEO
 
+* [AEOrank](https://github.com/vinpatel/aeorank/tree/main/packages/wordpress) - WordPress plugin that generates the 9 files AI engines read (llms.txt, ai.txt, CLAUDE.md, etc.) so ChatGPT and Perplexity can cite your content.
 * [Redirection](https://wordpress.org/plugins/redirection/) - Redirection is a WordPress plugin to manage 301 redirections and keep track of 404 errors without requiring knowledge of Apache .htaccess files.
 * [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/) - Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using Yoast SEO plugin.
 * [Broken Link Checker](https://wordpress.org/plugins/broken-link-checker/) - This plugin will monitor your blog looking for broken links and let you know if any are found.
