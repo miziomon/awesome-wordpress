@@ -20,6 +20,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 		- [Forms and modules](#forms-and-modules)
 		- [Widget](#widget)		
 		- [Move and Backup](#move-and-backup)
+		- [Maps and Store Locator](#maps-and-store-locator)
 		- [Marketing](#marketing)
 		- [Google Analytics](#google-analytics)
 	- [Commandline](#commandline)
@@ -191,6 +192,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [MultiSite Clone Duplicator](https://wordpress.org/plugins/multisite-clone-duplicator/) - MultiSite Clone Duplicator adds a "Duplicate Site" functionality to your network installation. It allows you to clone any site of your network into a new one : all data, files, users and roles can be copied.
 * [WP-CFM](https://wordpress.org/plugins/wp-cfm/) - WP-CFM lets you copy database configuration to / from the filesystem. Easily deploy configuration changes without needing to copy the entire database. WP-CFM is similar to Drupal's Features module.
 
+
+#### Maps and Store Locator
+*For physical stores, places, and journeys*
+
+* [MapifyPro](https://mapifypro.com/) - The perfect WordPress store locator plugin to help your customers find your products. Dozens of features, unlimited locations and maps, no Google API Key necessary.
 
 #### Marketing
 * [Leads](https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
