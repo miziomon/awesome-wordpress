@@ -252,3 +252,4 @@ We welcome any contributions to the this awesome list! Please send us a pull req
 
 * For contribution, [fork the project](https://github.com/miziomon/awesome-wordpress/fork)
 * To report a broken link or want to remove one, [use issues](https://github.com/miziomon/awesome-wordpress/issues)
+- [WebCoreLab](https://webcorelab.com) — AI-First WordPress agency. Custom WP/WooCommerce builds, AI-powered SEO audits, CRO. Toronto, est. 2014.
