@@ -55,6 +55,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Landing Pages](https://wordpress.org/support/plugin/landing-pages/) - Framework for building single page presentations with split testing capabilities.
 * [Titan Framework](https://github.com/gambitph/Titan-Framework) - The easiest to use WordPress options framework. Titan Framework allows theme and plugin developers to create admin pages, options, meta boxes, and theme customizer options with just a few simple lines of code.
 * [create-wp-react-app](https://github.com/matzeeable/wp-reactjs-starter) - WordPress CLI to generate your next modern plugin with the power of REST API, webpack, babel, MobX and MobX State Tree
+* [Wove](https://github.com/samaybhavsar/wove) - A minimal, typographic block theme for a personal site and blog: self-hosted Newsreader serif, a monochrome palette, automatic dark mode, and a reading-first layout.
 
 ## Gutenberg
 * [Create Guten Block](https://github.com/ahmadawais/create-guten-block) - A zero configuration toolkit for building Gutenberg block plugins.
