@@ -147,6 +147,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Hubaga](https://github.com/picocodes/hubaga/) - Hubaga is a lightweight eCommerce plugin for developers. It was has a lot of optimisation that increase your conversion rates such as a single-field checkout and instacheck.
 * [Easy Digital Downloads](https://wordpress.org/plugins/easy-digital-downloads/) - Easy Digital Downloads is a complete e-commerce solution for selling digital products in a light, performant, and easy to use plugin. Rather that attempting to provide every feature under the sun, Easy Digital Downloads makes selling digital simple and complete by providing just the features you need.
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - Transform your WordPress website into a thoroughbred eCommerce store. Delivering enterprise-level quality and features, backed by a name you can trust. Say "hello" to the WooCommerce eCommerce plugin.
+* [DonatoTomato](https://wordpress.org/plugins/donatotomato/) - Donation plugin for nonprofits. Adds a site-wide floating Donate button, inline donation forms, and Gutenberg blocks, with recurring giving and automatic tax receipts; donations go to the organization's own Stripe account.
 
 #### Security and Management
 *Antispam, prevent brute force, ecc*
