@@ -204,6 +204,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 * [WP-CLI](http://wp-cli.org/) - WP-CLI is a set of command-line tools for managing WordPress installations. You can update plugins, set up multisite installs and much more, without using a web browse.
 * [WPScan](http://wpscan.org/) - WPScan is a black box WordPress vulnerability scanner.
+* [wp-executor](https://github.com/Project-Flash-Build/wp-executor) - A single-binary Rust worker that polls a REST job queue published by WordPress and runs host-side work (shell commands, file IO, HTTP) on your own machine, under a capability allowlist. MIT/Apache-2.0.
 
 ## Resources
 
