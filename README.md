@@ -4,6 +4,7 @@ A curated list of amazingly awesome WordPress resources, themes, plugins and shi
 Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome WordPress](#awesome-wordpress)
+- [AI Alt Text Generator](https://github.com/DeusAcc/ai-alt-text-generator) - WordPress plugin that scans the Media Library and generates missing image ALT text automatically via a vision AI model (BYOK: your own OpenAI-compatible key, free tiers included). GPLv2, no subscription.
 	- [Core](#core)
 	- [Themes and Framework](#themes-and-framework)
 	- [Gutenberg](#gutenberg)
