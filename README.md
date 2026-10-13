@@ -163,6 +163,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
 * [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/) - Wordfence includes an endpoint firewall and malware scanner that were built from the ground up to protect WordPress. Web Application Firewall identifies and blocks malicious traffic. Built and maintained by a large team focused 100% on WordPress security. Malware scanner checks core files, themes and plugins for malware, bad URLs, backdoors, SEO spam, malicious redirects and code injections.
 * [CloudFlare WAF and CDN](https://www.cloudflare.com/integrations/wordpress/) = CloudFlare offers managed WAF (Web Application Firewall) rules for WordPress, CDN, and DDOS mitigation for WordPress sites
+* [Upload Metadata Scrubber](https://wordpress.org/plugins/hexloom-upload-metadata-scrubber/) - Removes author names, last-modified-by and revision data from PDF, Word, Excel, PowerPoint and image uploads, and shows a per-file report of what was removed and what was not. Not a guarantee of full removal.
 
 #### Dashboard
 
