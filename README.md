@@ -176,6 +176,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 
 #### Widget
 
+* [Waveleta for WordPress](https://wordpress.org/plugins/waveleta/) - Free live crypto prices, FX rates and market widgets via shortcodes, blocks and Elementor.
 * [Widget Options](https://wordpress.org/plugins/widget-options/) - Get Better Control over your Widgets. Easily show or hide WordPress widgets on specified pages & devices and/or assign custom alignment.
 * [Widget Logic](https://wordpress.org/plugins/widget-logic/) - This plugin gives every widget an extra control field called "Widget logic" that lets you control the pages that the widget will appear on. The text field lets you use WP's Conditional Tags, or any general PHP code.
 * [Widget Output Cache](https://wordpress.org/plugins/widget-output-cache/) - Use PHP output buffering to extract widget output and store it into WordPress transients for faster retrieval. It also adds a checkbox to widget controls to exclude it from being cached.
