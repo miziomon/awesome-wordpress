@@ -118,6 +118,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [WP Quick Install](http://wp-quick-install.com/) - WordPress installation could be long: downloading, decompressing, uploading, plugins and themes installation. WP Quick Install will take care all of this things. Simply upload this tiny script where you want to install WordPress
 * [GenerateWP](http://generatewp.com/) - The easiest and the fastest way to create custom and high quality code for your WordPress project using the latest WordPress coding standards and API's.
 * [FakerPress](https://wordpress.org/plugins/fakerpress/) - FakerPress is a clean way to generate fake and dummy content to your WordPress, great for developers who need testing
+* [WordPress .htaccess Generator](https://odiethemes.com/tools/wordpress-htaccess-generator/) - Free tool that builds a correct .htaccess file for WordPress (security rules, 301 redirects, right Apache 2.2 vs 2.4 syntax) without copy-pasting outdated forum snippets.
 
 #### Images and Media Gallery
 *All about media items management*
