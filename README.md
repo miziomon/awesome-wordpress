@@ -217,6 +217,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Knowhow
 * [10up Engineering Best Practices](http://10up.github.io/Engineering-Best-Practices/) - As a company, we strive to provide websites and components that yield a top-notch user experience. In order to improve efficiency, we need to standardize what we use and how we use it. Standardizing our tools, frameworks, libraries, style, version control, and even languages will allow us to understand better the inner workings of someone else’s project and produce better solutions ourselves.
 
+#### Agent Skills
+* [Agent Ops Skills](https://github.com/zfrqbl/agent-ops-skills) - A collection of 15 agent skills for running an agent's own operations and a WordPress site: a review-first publication flow, maintenance passes, content work, the REST API, and the most-installed plugins (WooCommerce, Yoast SEO, ACF, WPForms, Wordfence, Elementor). Each skill is a single SKILL.md with guardrails: read-only by default, writes approved and verified.
+
 #### Websites
 
 * [Stackexchange](http://wordpress.stackexchange.com/) - WordPress Development Stack Exchange is a question and answer site for WordPress developers and administrators. It's 100% free, no registration required.
