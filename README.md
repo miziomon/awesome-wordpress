@@ -192,6 +192,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [WP-CFM](https://wordpress.org/plugins/wp-cfm/) - WP-CFM lets you copy database configuration to / from the filesystem. Easily deploy configuration changes without needing to copy the entire database. WP-CFM is similar to Drupal's Features module.
 
 
+* [BundleWP Site Backup for Google Drive](https://wordpress.org/plugins/bundlewp-site-backup-for-google-drive/) - Automatic WordPress backups to Google Drive.
+
 #### Marketing
 * [Leads](https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
 * [Calls to Action](https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts.
