@@ -195,6 +195,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 #### Marketing
 * [Leads](https://wordpress.org/support/plugin/leads/) - Provides in-depth visitor tracking and list collection + segmentation tools.
 * [Calls to Action](https://wordpress.org/support/plugin/cta/) - Provides template powered ad placement system for calls to action, sponsored adverts, and data collection efforts.
+* [SealReply Live Chat](https://wordpress.org/plugins/sealreply-live-chat/) - Adds the SealReply live chat widget to your site without editing theme code. Chat with visitors, see who is online and collect emails when you are away.
 
 #### Google Analytics
 * [Analytify](https://wordpress.org/plugins/wp-analytify/) - Google Analytics Dashboard for WordPress – by Analytify makes simple and complete Google Analytics for everywhere in WordPress (posts, pages and custom post types)
