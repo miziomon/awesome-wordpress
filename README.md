@@ -163,6 +163,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Easy Updates Manager](https://wordpress.org/plugins/stops-core-theme-and-plugin-updates/) - Easy Updates Manager is a light yet powerful plugin which enables you to manage all types of updates on your single site install or in WordPress Multisite. With loads of settings making endless possibilities for configuration, Easy Updates Manager is an obvious choice for anyone wanting to take control of their websites updates.
 * [Wordfence Security – Firewall & Malware Scan](https://wordpress.org/plugins/wordfence/) - Wordfence includes an endpoint firewall and malware scanner that were built from the ground up to protect WordPress. Web Application Firewall identifies and blocks malicious traffic. Built and maintained by a large team focused 100% on WordPress security. Malware scanner checks core files, themes and plugins for malware, bad URLs, backdoors, SEO spam, malicious redirects and code injections.
 * [CloudFlare WAF and CDN](https://www.cloudflare.com/integrations/wordpress/) = CloudFlare offers managed WAF (Web Application Firewall) rules for WordPress, CDN, and DDOS mitigation for WordPress sites
+* [Takedown Desk](https://wordpress.org/plugins/takedown-desk/) - Handle Take It Down Act removal requests and DMCA takedown notices in the dashboard: request forms, a deadline clock, removal of the item and its identical copies, and a dated record.
 
 #### Dashboard
 
