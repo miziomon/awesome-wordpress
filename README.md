@@ -44,11 +44,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Bones](http://themble.com/bones/) - An HTML5, Mobile-First starter theme for rapid WordPress development.
 * [Sage](https://roots.io/sage/) - Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap, that will help you make better themes.
 * [WordPlate](https://wordplate.github.io/) - WordPlate tries to simplify the fuzziness around WordPress development.
-* [WP MVC](http://wpmvc.org/) - WP MVC is an MVC framework that makes WordPress development faster, easier, and more elegant. It is a full-fledged framework with conventions that are similar to those of Ruby on Rails and CakePHP
 * [CherryFramework](https://github.com/CherryFramework/CherryFramework) - Fully responsive design, easy install, steady updates, great number of shortcodes and widgets, integration of Bootstrap functions. All brought to you by Cherry Framework for straightforward experience in website design
 * [Gantry Framework](https://github.com/gantry/gantry5) - Next Generation Theme Framework. Gantry was born when the RocketTheme development team wanted to consolidate our extensive set of custom Joomla and WordPress template functionality into a simple, easy to use framework
 * [Runway Framework](https://github.com/parallelus/Runway-Framework) - A better way to create WordPress themes. Runway was built for creating WordPress themes and it encompasses both of the classic meanings of "theme framework" as defined by the WordPress developers. But Runway is much more than just a theme framework, Runway is a Theme Development Environment.
-* [Kirki](http://kirki.org/) - Kirki is not a framework. It's a Toolkit allowing WordPress developers to use the Customizer and take advantage of its advanced features and flexibility by abstracting the code and making it easier for everyone to create beautiful and meaningful user experiences.
 * [Wp Developer Theme](https://github.com/heitorspedroso/wp-developer-theme) - This Theme was developed to be a fast tool in the developer's hands, through it the developer can already create the theme without worrying about the file structure that is already ready and with pre-defined loops without influence in html / css
 * [HTML5 Blank](http://html5blank.com/) - The HTML5 WordPress boilerplate theme.
 * [Odin WP](http://wpod.in/) - Base-theme developed by WordPress Brasil Group, to help on agile development of themes for WordPress.
@@ -239,6 +237,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-php]
 * [Awesome WordPress Developer Tips](https://github.com/Mte90/awesome-wordpress-developer-tips) - Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 * [Powered By WordPress](https://github.com/minthemiddle/powered-by-wordpress) - Curated list of TOP 1M Alexa ranking websites using WordPress, sorted by category and ranking.
 * [Best WordPress Hosting Providers Compared](https://thishosting.rocks/best-wordpress-hosting/) - Detailed article/comparison of the best WordPress hosting providers.
+* [Swavent Figma to WordPress](https://swavent.com/en/services/figma-to-wordpress-webflow) - Figma to WordPress and Webflow development by Swavent.
 
 
 ## Books
